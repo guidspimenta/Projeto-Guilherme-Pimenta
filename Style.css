@@ -1,0 +1,18 @@
+h1 {
+    color: dodgerblue; font-family: monospace;
+ }
+ h3 {
+    color: indigo; font-family: monospace;
+ }
+ span {
+    color: turquoise; font-family: Arial; font-size: 18px;
+ }
+
+ .destaque {
+     background-color: yellow;
+
+
+ }
+#destaque_especial {
+    background-color: red;
+}
