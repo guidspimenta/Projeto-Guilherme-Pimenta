@@ -1,18 +1,17 @@
-h1 {
-    color: dodgerblue; font-family: monospace;
- }
- h3 {
-    color: indigo; font-family: monospace;
- }
- span {
-    color: turquoise; font-family: Arial; font-size: 18px;
- }
+.header {
+background-color: #000407;
+color: #32b9cd;
 
- .destaque {
-     background-color: yellow;
+}
 
+.header .container {
+    display: flex;
+    justify-content: space-between;
+}
 
- }
-#destaque_especial {
-    background-color: red;
+.navbar {
+    display: flex;
+    list-style: none;
+    width: 400px;
+    justify-content: space-around;
 }
